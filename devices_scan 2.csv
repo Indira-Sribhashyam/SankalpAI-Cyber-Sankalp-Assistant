@@ -1,0 +1,51 @@
+device_id,ip_address,latitude,longitude,device_type,manufacturer,model_number,firmware_version,os_type,region,open_ports_count,port_list,protocol_type,encryption_enabled,external_access,external_ip_detected,default_password_status,weak_password_detected,insecure_services_count,known_cve_count,cve_score_max,patch_status,anomaly_score,scan_source,last_scan_time
+SHODAN_31.146.3.70,31.146.3.70,41.69411,44.83368,CCTV/DVR,JSC Silknet,,,,GE,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_141.224.241.35,141.224.241.35,52.07667,4.29861,CCTV/DVR,DELTA Fiber Nederland B.V.,,,,NL,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_187.34.227.50,187.34.227.50,-22.90556,-47.06083,CCTV/DVR,TELEFÔNICA BRASIL S.A,,,,BR,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_88.247.119.17,88.247.119.17,41.01384,28.94966,CCTV/DVR,Turk Telekomunikasyon Anonim Sirketi,,,,TR,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_152.245.49.236,152.245.49.236,-23.5475,-46.63611,CCTV/DVR,TELEFÔNICA BRASIL S.A,,,,BR,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_210.165.208.10,210.165.208.10,35.52056,139.71722,CCTV/DVR,"InfoSphere (NTT PC Communications, Inc.)",,,,JP,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_94.137.20.90,94.137.20.90,54.99244,73.36859,CCTV/DVR,Omskie kabelnye seti Ltd.,,,,RU,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_62.143.39.206,62.143.39.206,50.93333,6.95,CCTV/DVR,Unitymedia,,,,DE,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_37.69.86.43,37.69.86.43,46.0508,6.47429,CCTV/DVR,SFR Infra MAP-T,,,,FR,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_91.211.56.216,91.211.56.216,56.01138,90.41656,CCTV/DVR,LTD SibMediaFon,,,,RU,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_166.164.53.158,166.164.53.158,39.32796,-120.18325,CCTV/DVR,Verizon Business,,,,US,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_114.35.153.26,114.35.153.26,22.99083,120.21333,CCTV/DVR,"Chunghwa Telecom Co.,Ltd.",,,,TW,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_177.39.102.144,177.39.102.144,-7.74167,-35.22778,CCTV/DVR,unknown,,,,BR,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_69.193.148.14,69.193.148.14,40.7571,-73.9657,CCTV/DVR,Charter Communications Inc,,,,US,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_82.65.163.250,82.65.163.250,48.87415,2.75114,CCTV/DVR,Free SAS,,,,FR,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_139.47.109.195,139.47.109.195,40.45535,-3.46973,CCTV/DVR,Xtra Telecom S.A.,,,,ES,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_85.4.174.1,85.4.174.1,46.20222,6.14569,CCTV/DVR,Swisscom (Schweiz) AG is an LIR and ISP in Switzerland.,,,,CH,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_201.182.98.13,201.182.98.13,-30.03283,-51.23019,CCTV/DVR,SOLUTTI NETWORKS LTDA,,,,BR,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_84.182.156.148,84.182.156.148,49.0341,11.47393,CCTV/DVR,Deutsche Telekom AG,,,,DE,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_62.192.61.183,62.192.61.183,55.15402,61.42915,CCTV/DVR,Limited Liability Company HyperNet,,,,RU,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_85.72.126.118,85.72.126.118,37.92812,23.70105,CCTV/DVR,Ote SA (Hellenic Telecommunications Organisation),,,,GR,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_220.134.142.208,220.134.142.208,23.47917,120.44889,CCTV/DVR,"Chunghwa Telecom Co.,Ltd.",,,,TW,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_119.5.50.35,119.5.50.35,30.66667,104.06667,CCTV/DVR,China Unicom SiChuan province network,,,,CN,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_151.32.123.75,151.32.123.75,45.07049,7.68682,CCTV/DVR,WIND TRE S.P.A.,,,,IT,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_189.136.161.186,189.136.161.186,18.85254,-99.22537,CCTV/DVR,Gestión de direccionamiento UniNet,,,,MX,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_98.212.142.202,98.212.142.202,39.9356,-91.40987,CCTV/DVR,"Comcast Cable Communications, Inc.",,,,US,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_181.99.119.251,181.99.119.251,-31.4135,-64.18105,CCTV/DVR,Telecom Personal Bs As,,,,AR,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_90.189.194.33,90.189.194.33,55.0415,82.9346,CCTV/DVR,OJSC Sibirtelecom,,,,RU,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_117.4.99.107,117.4.99.107,21.85264,106.76101,CCTV/DVR,Viettel Group,,,,VN,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_218.164.0.204,218.164.0.204,22.61626,120.31333,CCTV/DVR,"Chunghwa Telecom Co.,Ltd.",,,,TW,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_117.4.147.153,117.4.147.153,17.46885,106.62226,CCTV/DVR,Viettel Group,,,,VN,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_87.175.208.212,87.175.208.212,47.78894,9.88383,CCTV/DVR,Deutsche Telekom AG,,,,DE,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_94.67.68.233,94.67.68.233,39.63689,22.41761,CCTV/DVR,Ote SA (Hellenic Telecommunications Organisation),,,,GR,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_91.33.192.161,91.33.192.161,52.43081,7.06833,CCTV/DVR,Deutsche Telekom AG,,,,DE,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_118.163.188.153,118.163.188.153,24.1469,120.6839,CCTV/DVR,"Chunghwa Telecom Co.,Ltd.",,,,TW,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_196.250.90.129,196.250.90.129,-4.32758,15.31357,CCTV/DVR,CANALBOX-KIN-1,,,,CD,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_126.123.146.50,126.123.146.50,32.75,129.88333,CCTV/DVR,Japan Nation-wide Network of Softbank Corp.,,,,JP,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_27.76.90.169,27.76.90.169,21.82356,105.21424,CCTV/DVR,Viettel Group,,,,VN,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_212.124.175.29,212.124.175.29,45.77908,12.25628,CCTV/DVR,NGI Spa,,,,IT,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_199.71.226.236,199.71.226.236,42.55779,-88.86511,CCTV/DVR,"JAB Wireless, INC.",,,,US,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_125.229.184.94,125.229.184.94,25.05306,121.52639,CCTV/DVR,"Chunghwa Telecom Co.,Ltd.",,,,TW,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_60.245.45.177,60.245.45.177,22.61626,120.31333,CCTV/DVR,Savecom International Inc.,,,,TW,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_178.210.43.28,178.210.43.28,51.67204,39.1843,CCTV/DVR,KVANT-TELEKOM Closed Joint Stock,,,,RU,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_2.194.180.198,2.194.180.198,45.07049,7.68682,CCTV/DVR,Telecom Italia Mobile,,,,IT,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_45.128.188.51,45.128.188.51,50.45466,30.5238,CCTV/DVR,Gigabit-Online LLC,,,,UA,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_201.174.134.201,201.174.134.201,31.72024,-106.46084,CCTV/DVR,"IP Matrix, S.A. de C.V.",,,,MX,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_5.2.205.243,5.2.205.243,44.43225,26.10626,CCTV/DVR,RCS & RDS Business,,,,RO,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_59.127.155.151,59.127.155.151,23.47917,120.44889,CCTV/DVR,"Chunghwa Telecom Co.,Ltd.",,,,TW,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_74.88.252.233,74.88.252.233,41.6062,-73.87291,CCTV/DVR,Optimum Online (Cablevision Systems),,,,US,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
+SHODAN_134.236.56.34,134.236.56.34,16.37167,104.55147,CCTV/DVR,10 Fl. 72. CAT TELECOM TOWER Bangrak Bangkok Thailand,,,,TH,0,,unknown,,True,True,unknown,False,0,0,,unknown,0.0,shodan,2025-11-22T07:56:05.593265+00:00
