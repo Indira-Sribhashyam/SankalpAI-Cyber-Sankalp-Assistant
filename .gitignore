@@ -1,0 +1,12 @@
+﻿venv/
+__pycache__/
+*.pyc
+*.db
+*.log
+.env
+/data/
+C:\srv\chroma_db
+chroma_db/
+srv/
+docker-data/
+.DS_Store

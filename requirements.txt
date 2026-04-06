@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+chromadb
+groq
+python-dotenv
+pandas
+cachetools

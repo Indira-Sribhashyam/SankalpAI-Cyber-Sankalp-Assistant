@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do I mitigate CVE-2021-44228?",
+    "ground_truth": "Update Log4j to version 2.15.0 or later, or set formatMsgNoLookups."
+  },
+  {
+    "question": "What is the severity of CVE-2021-44228?",
+    "ground_truth": "The severity is Critical."
+  },
+  {
+    "question": "Which component is affected by CVE-2021-44228?",
+    "ground_truth": "Apache Log4j is the affected component."
+  }
+]
